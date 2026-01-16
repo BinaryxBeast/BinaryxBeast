@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rushikesh Ghatul</h1>
-<h3 align="center">Rushikesh Ghatul | Aspiring Software Engineer from VU
+<h3 align="center">Rushikesh Ghatul | Aspiring Software Engineer from VU | I Like to Code |
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binaryxbeast&label=Profile%20views&color=0e75b6&style=flat" alt="binaryxbeast" /> </p>
